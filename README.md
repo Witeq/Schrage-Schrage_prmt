@@ -9,3 +9,6 @@ Cmax - max executive time of all tasks
 
 
 This alghorithm designate permutation of all tasks where final completion time is minimal (Cmax). The program is based on binary min and max heaps.
+
+Schrage - no task interruption
+Schrage_prmt - task interruption is possible
