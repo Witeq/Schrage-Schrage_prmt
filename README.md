@@ -1,9 +1,9 @@
 # Descrption
 
 We have n tasks. Each task has 3 parameters:
-r - task is available for processing at time r
-p - processing time
-q - "delivery" time
+- r - task is available for processing at time r
+- p - processing time
+- q - "delivery" time
 
 Cmax - max executive time of all tasks
 
